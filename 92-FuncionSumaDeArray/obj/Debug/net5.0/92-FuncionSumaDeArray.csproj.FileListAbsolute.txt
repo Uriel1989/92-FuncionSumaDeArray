@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\ref\92-FuncionSumaDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\bin\Debug\net5.0\92-FuncionSumaDeArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.csproj.AssemblyReference.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\ref\92-FuncionSumaDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\92-FuncionSumaDeArray\obj\Debug\net5.0\92-FuncionSumaDeArray.genruntimeconfig.cache
